@@ -7,5 +7,7 @@ Perma link as markdown
 
     fasfsadf
     fdasf
+NEW LINE TO INTRODUCE A CONFLICT
 NEW LINE @ LINE NUMBER 10
+NEW LINE 
     fdasf
