@@ -8,5 +8,7 @@ Perma link as markdown
     fasfsadf
     NEW LINE ADDED IN VS CODE
     fdasf
+NEW LINE TO INTRODUCE A CONFLICT
 NEW LINE @ LINE NUMBER 10
+NEW LINE 
     fdasf
