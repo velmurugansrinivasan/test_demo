@@ -6,6 +6,7 @@ Perma link as markdown
     https://github.com/velmurugansrinivasan/test_demo/blob/main/demo.txt
 
     fasfsadf
+    NEW LINE ADDED IN VS CODE
     fdasf
 NEW LINE @ LINE NUMBER 10
     fdasf
