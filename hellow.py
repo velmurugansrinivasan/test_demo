@@ -10,3 +10,10 @@ print("trying to create a conflict")
 print("trying to create a conflict again")
 print("adding a new line @ line number 9")
 print("adding line @ 10")
+
+
+print("adding line @ 15 to induce one more conflict from BROWSER")
+print("adding line @ 16 to induce one more conflict from BROWSER")
+print("adding line @ 17 to induce one more conflict from BROWSER")
+print("adding line @ 18 to induce one more conflict from BROWSER")
+print("adding line @ 19 to induce one more conflict from BROWSER")
