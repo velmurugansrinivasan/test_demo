@@ -18,3 +18,10 @@ print("adding line @ 17 to induce one more conflict from VSCODE EDITOR")
 print("adding line @ 18 to induce one more conflict from VSCODE EDITOR")
 print("adding line @ 19 to induce one more conflict from VSCODE EDITOR")
 
+
+
+print("adding line @ 15 to induce one more conflict from BROWSER")
+print("adding line @ 16 to induce one more conflict from BROWSER")
+print("adding line @ 17 to induce one more conflict from BROWSER")
+print("adding line @ 18 to induce one more conflict from BROWSER")
+print("adding line @ 19 to induce one more conflict from BROWSER")
